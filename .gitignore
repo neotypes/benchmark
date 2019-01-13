@@ -1,0 +1,6 @@
+.*
+build/
+*.iml
+out/
+project/*/
+target/
